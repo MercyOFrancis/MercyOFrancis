@@ -25,7 +25,8 @@ Retailers like SLOT Nigeria face challenges managing high volumes of transaction
 - Stored procedures encapsulating complex transactions to ensure atomicity and consistency
 - Constraints and validation rules to prevent invalid data entry and maintain integrity
 - Views and reports empowering management with timely business insights
-
+- 
+# Database management system: PostgreSQL
 
 # Project Overview
 This project simulates a transactional database system for SLOT Nigeria, managing functions such as customer management, inventory control, order processing, employee and supplier records, and product reviews. The system is designed to ensure data integrity, support high-concurrency transactions, and automate business rules.
