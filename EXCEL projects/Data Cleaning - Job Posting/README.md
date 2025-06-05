@@ -12,15 +12,14 @@
 
 ## 📋 Table of Contents
 
-- [Introduction](#Introduction)
-- [Objectives](#Objectives)
-- [Dataset Overview](#dataset-overview)
-- [Initial Issues Identified](#initial-issues-identified)
-- [Cleaning Methodology](#cleaning-methodology)
-- [Key Improvements](#key-improvements)
-- [Tools & Techniques](#tools--techniques)
-- [Results & Impact](#results--impact)
-- [Conclusion](#conclusion)
+- [ 🎯 Introduction](#-introduction)
+- [ 🎯 Objectives](#-objectives)
+- [ 📊 Dataset Overview](#-dataset-overview)
+- [ 🚨 Initial Issues Identified](#-initial-issues-identified)
+- [ 🛠️ Cleaning Methodology](#cleaning-methodology)
+- [ 🛠️ Tools & Techniques](#tools--techniques)
+- [ 📈 Results & Impact](#results--impact)
+- [ 🎉 Conclusion](#conclusion)
 
 ## 🎯 Introduction
 Data cleaning is a critical step in the data analysis pipeline, ensuring that datasets are accurate, consistent, and ready for meaningful analysis. This report outlines the systematic approach employed to clean and preprocess a dataset containing job postings for data science roles.
@@ -40,7 +39,7 @@ Data cleaning is a critical step in the data analysis pipeline, ensuring that da
 - Key Fields: Job titles, salary estimates, company name,  job descriptions, company ratings, locations, headquarters, industry, sector, revenue, competitors
 
 
-## Before
+## Before: [Uncleaned DS jobs]()
 
 
 ![image](https://github.com/user-attachments/assets/7c729748-39ed-4b82-863c-2366eb56e73e)
@@ -57,7 +56,7 @@ Data cleaning is a critical step in the data analysis pipeline, ensuring that da
 
 
 
-## After
+## After:  [Cleaned DS jobs]()
 
 
 
