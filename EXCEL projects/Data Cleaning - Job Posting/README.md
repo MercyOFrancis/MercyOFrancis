@@ -1,4 +1,4 @@
-# Data Cleaning Report: Job Postings for Data Science Roles
+# Data Cleaning Report: Job Postings for Data Science Roles 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status">
