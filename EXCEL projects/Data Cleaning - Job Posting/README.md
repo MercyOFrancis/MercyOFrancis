@@ -39,7 +39,7 @@ Data cleaning is a critical step in the data analysis pipeline, ensuring that da
 - Key Fields: Job titles, salary estimates, company name,  job descriptions, company ratings, locations, headquarters, industry, sector, revenue, competitors
 
 
-## Before: [Uncleaned DS jobs]()
+## Before: [Uncleaned DS jobs](https://github.com/MercyOFrancis/MercyOFrancis/blob/2acd01cd09c9b75466cf3eb8527869f1a766a609/EXCEL%20projects/Data%20Cleaning%20-%20Job%20Posting/Datasets/Cleaned%20DS%20Jobs.xlsx)
 
 
 ![image](https://github.com/user-attachments/assets/7c729748-39ed-4b82-863c-2366eb56e73e)
