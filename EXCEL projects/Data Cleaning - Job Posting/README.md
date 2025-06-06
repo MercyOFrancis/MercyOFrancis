@@ -9,18 +9,18 @@
 </div>
 
 
-
 ## 📋 Table of Contents
 
-- [ 🎯 Introduction](#-introduction)
-- [ 🎯 Objectives](#-objectives)
-- [ 📊 Dataset Overview](#-dataset-overview)
-- [ 🚨 Initial Issues Identified](#-initial-issues-identified)
-- [ 🛠️ Cleaning Methodology](#cleaning-methodology)
-- [ 🛠️ Tools & Techniques](#tools--techniques)
-- [ 📈 Results & Impact](#results--impact)
-- [ 🎉 Conclusion](#conclusion)
+- [🎯 Introduction](#introduction)
+- [🎯 Objectives](#objectives)
+- [📊 Dataset Overview](#dataset-overview)
+- [🚨 Initial Issues Identified](#initial-issues-identified)
+- [🛠️ Cleaning Methodology](#cleaning-methodology)
+- [🛠️ Tools & Techniques](#tools--techniques)
+- [📈 Results & Impact](#results--impact)
+- [🎉 Conclusion](#conclusion)
 
+ 
 ## 🎯 Introduction
 Data cleaning is a critical step in the data analysis pipeline, ensuring that datasets are accurate, consistent, and ready for meaningful analysis. This report outlines the systematic approach employed to clean and preprocess a dataset containing job postings for data science roles.
 
