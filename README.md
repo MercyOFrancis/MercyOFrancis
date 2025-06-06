@@ -3,7 +3,7 @@
 # 👩‍🔬 Hi, I’m Mercy Francis
 
 🎯 **Precision-Driven Data Analyst** | 🔬 Med Biochemist-Turned-Data Explorer  
-🌍 Nigeria-based | 🧬 Specializing in biomedical & clinical data storytelling
+🌍 Nigeria-based | 🧬 Specializing in Science-Driven Data Analytics
 
 ---
 
