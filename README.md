@@ -10,12 +10,13 @@
 ## 🧠 About Me
 
 I extract clarity from complexity—cleaning, analyzing, and visualizing data with surgical precision.  
-With roots in biochemistry and hands-on lab work, I now translate biomedical and business data into insights using:
+With roots in Medical biochemistry and hands-on lab work, I now translate biomedical and business data into insights using:
 
 - 🔍 **Excel & Power Query** for agile data wrangling  
 - 🧮 **PostgreSQL** for structured querying  
 - 📊 **Power BI** for live dashboards  
-- 🐍 Learning **Python** for automation and bioinformatics pipelines  
+- 🐍 Learning **Python** for automation
+- 🔵**R** Learning **R** for statistical computing and visualization
 
 ---
 
@@ -76,6 +77,17 @@ Analyzed gene expression data for glioma classification
 
 ---
 
+## 💡 Fun Facts
+
+- 🌍 crunching datasets from every corner of the globe  
+- 🎬 Recharges with binge-worthy series and lively board- or card-game nights  
+- 🎾 Weekend tennis learner & casual volleyball setter—minus the sore knuckles  
+- ☕ Powered by yoghurt, café-hopping, and the hunt for fancy desserts  
+- 🛍️ Loves spontaneous travel and retail therapy—passport and shopping cart always ready  
+- 🎯 Mission: turn complex data into stories everyone can act on
+
+---
+
 ## 🧪 From Bench to Bytes
 
 Previously worked as a **Lab Assistant at Clinix Healthcare**, managing pathology sample data and lab equipment like ELISA, HPLC, and PCR machines.  
@@ -86,7 +98,9 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 ## 📊 Stats & Streaks
 
 ![Mercy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MercyOFrancis&show_icons=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyOFrancis&layout=compact&theme=radical&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MercyOFrancis&theme=radical&hide_border=true)
 
 ---
@@ -95,5 +109,13 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 Let’s bring order to your chaos.
 
 ---
+⭐ **If you find my work interesting, please consider giving my repositories a star!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MercyOFrancis&color=blueviolet&style=flat)
+
+---
+<div align="center">
+  
+### 🚀 Ready to turn your data into insights? Let's collaborate!
+
+</div>
