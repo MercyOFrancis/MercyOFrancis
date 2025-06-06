@@ -2,6 +2,11 @@
 SLOT Systems Limited is Nigeria’s leading retail company specializing in affordable and durable consumer electronics, including mobile phones, computers, accessories, and related gadgets. Established in 1998, SLOT has built a strong reputation for delivering authentic products from top brands such as Samsung, Apple, Tecno, HP, Dell, and Lenovo, across both online and physical stores nationwide.
 The company is known for competitive pricing, frequent promotions, flexible payment options like pay-on-delivery and buy-now-pay-later, and exceptional customer service including after-sales support, mobile phone engineering, phone trade-in, and stolen phone recovery services. 
 
+ ![image](https://github.com/user-attachments/assets/eb82ac48-acca-408b-bce2-1c20c24535af)
+
+
+
+
 ## Project Overview
 This project simulates a transactional database system for SLOT Nigeria, managing functions such as customer management, inventory control, order processing, employee and supplier records, and product reviews. The system is designed to ensure data integrity, support high-concurrency transactions, and automate business rules.
 
