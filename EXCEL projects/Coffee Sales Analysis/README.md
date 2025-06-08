@@ -8,6 +8,32 @@
 
 ## 📖 Executive Summary
 This report presents a comprehensive analysis of coffee sales performance across various product types, countries, and customer loyalty segments. An interactive dashboard was developed in Excel to empower decision-makers to extract insights, observe market trends, and align offerings based on customer preferences.
+---
+
+
+
+
+
+
+
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/3ade869c-b20c-45e6-98bd-27338bec641a)
+
+
+
+
+
+
+
+
+
+
+
+
+#**#snippet**
+
+![Analysis Coffee](https://github.com/user-attachments/assets/adc0d545-4c82-4d9d-b2ae-714bad610d7b)
+
+
 
 ---
 
