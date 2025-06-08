@@ -1,7 +1,50 @@
-# Coffee Sales Analysis Report
+# ☕ Coffee Sales Analysis Report
 
-## Executive Summary
-This report provides an analysis of coffee sales performance, focusing on revenue by coffee type, roast type, customer segmentation, and trends over time. It aims to identify opportunities for growth and improve strategic decision-making.
+## 📌 Project Title: Coffee Sales Dashboard & Analysis
+**👩‍💻 Author:** Mercy  
+**📅 Date:** June 2025
+
+---
+
+## 📖 Executive Summary
+This report presents a comprehensive analysis of coffee sales performance across various product types, countries, and customer loyalty segments. An interactive dashboard was developed in Excel to empower decision-makers to extract insights, observe market trends, and align offerings based on customer preferences.
+
+---
+
+## 📂 Dataset Overview
+The dataset captures key aspects of each sale, including:
+
+- **🆔 Order Details:** Order ID, Order Date
+- **👥 Customer Information:** Customer ID, Name, Email, Country
+- **📦 Product Information:** Product ID, Coffee Type, Roast Type, Size
+- **💰 Sales Data:** Quantity, Unit Price, Total Sales
+- **💳 Loyalty Card Status:** Indicates if a customer is enrolled in a loyalty program
+
+---
+
+## 🔍 Key Metrics Extracted
+- **💵 Total Revenue:** $45,134
+- **🏆 Top Performing Products:** Robusta and Arabica
+- **🌍 Sales Distribution by Country, Roast, and Coffee Type**
+
+---
+
+## 📈 Key Insights
+
+### ☕ Best-Selling Coffee Types
+- **Robusta (Medium Roast)** and **Arabica (Light Roast)** emerged as customer favorites.
+
+### 🌎 Country-Specific Observations
+- **United States** leads overall sales volume, followed closely by **Ireland**.
+- Irish buyers show a preference for **Liberica Light** and **Robusta Dark**.
+
+### 📅 Seasonal Sales Trends
+- Noticeable sales spikes occur during festive seasons — particularly **June** and **December**.
+
+### 💳 Loyalty Impact
+- Customers using loyalty cards contributed **18% more revenue** on average than non-loyalty customers.
+
+---
 
 ## 1. Revenue by Coffee Type
 | Coffee Type | Revenue   | Market Share |
@@ -36,3 +79,33 @@ This report provides an analysis of coffee sales performance, focusing on revenu
 | 2020 | $3,356  | $3,663  | $2,604   | $2,493  | $12,118     |
 | 2021 | $4,046  | $3,470  | $3,837   | $2,414  | $13,766     |
 | 2022 | $1,440  | $1,692  | $2,235   | $
+
+---
+## 💻 Excel Dashboard
+The interactive dashboard created in Excel includes:
+- **Pivot Tables** for summarizing sales by coffee type, roast type, and country.
+- **Charts** such as bar charts for coffee type sales, line charts for monthly trends, and pie charts for loyalty card usage.
+
+---
+
+## 📊 Recommended Visuals
+- **Bar Chart:** Sales by Coffee Type
+- **Line Chart:** Monthly Sales Trends
+- **Pie Chart:** Loyalty vs Non-Loyalty Sales Distribution
+- **Heatmap:** Sales by Country and Roast Type
+
+---
+
+## ✅ Conclusion
+The insights derived from this analysis underscore the importance of customer loyalty programs and regional preferences in driving coffee sales. The Excel dashboard provides a robust platform for further analytics, aiding in informed decision-making across marketing and inventory domains.
+
+---
+
+## 🔧 Tools Used
+- **Excel**
+
+---
+
+## 📨 Contact
+**Email:** [mercy](mercyfrancis18@gmail.com)
+
