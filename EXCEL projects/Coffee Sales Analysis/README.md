@@ -31,7 +31,7 @@ The dataset captures key aspects of each sale, including:
 - **🆔 Order Details:** Order ID, Order Date
 - **👥 Customer Information:** Customer ID, Name, Email, Country, Loyalty Card Status
 - **📦 Product Information:** Product ID, Coffee Type, Roast Type, Size, Unit Price
-- **💰 calculated Sales :** Quantity, unit, Sales 
+- **💰 calculated Sales in Order table :** Quantity, Unit Price, Sales 
 
 ---
 
@@ -122,8 +122,36 @@ Total Sales of coffee Over Time
 ---
 
 ## ✅ Conclusion
-The insights derived from this analysis underscore the importance of customer loyalty programs and regional preferences in driving coffee sales. The Excel dashboard provides a robust platform for further analytics, aiding in informed decision-making across marketing and inventory domains.
+The coffee business has generated a total revenue of $45,134 from 2019 to 2022, with Excelsa and Liberica being the top-performing coffee types, particularly in light roast. Arabica (medium roast) also performed well, especially in 2021—the year with the highest overall revenue.
+The United States leads in revenue generation, and customer preferences differ slightly across regions, with Ireland showing interest in Liberica Light and Robusta Dark.
+Seasonal analysis reveals that sales peak in October, April, March, and June, while May, August, and January see the lowest activity. Notably, customers with loyalty cards do not spend more, and they contribute 4% less revenue on average.
 
+## 💡 Recommendations
+1. 📦 Focus on High-Demand Products
+Invest more in promoting and stocking Excelsa (Light), Liberica (Light), and Arabica (Medium).
+Consider creating bundles or limited editions featuring these types.
+
+2. 📆 Capitalize on Peak Seasons
+Launch targeted marketing campaigns in March, April, June, and October, leveraging the natural uptick in demand.
+Use flash sales or product launches to boost low-season months like May, August, and January.
+
+3. 🌍 Target U.S. Market More Aggressively
+Since the United States leads in revenue, focus promotions, loyalty incentives, and personalization on this market.
+Consider segmenting by coffee type preference within countries to tailor offerings.
+
+4. 🎯 Reevaluate Loyalty Program
+Since loyalty card holders spend less, investigate the program’s structure.
+Ask:
+Is it attracting the right customer segment?
+Are the incentives meaningful enough?
+Revamp to reward spending volume or high-margin purchases, not just frequency.
+
+5. 🧍‍♂️ Engage High-Value Customers
+Retain and nurture top customers like Allis Wilmore, Brenn Dundredge, etc., with exclusive offers, early access to new products, or personalized thank-you rewards.
+
+6. 📊 Monitor Robusta
+Robusta consistently underperforms.
+Consider: Discontinuing poor-selling roast variations, Rebranding or repositioning it for niche markets (e.g., budget-conscious or strong-flavor enthusiasts)
 ---
 
 ## 🔧 Tools Used
