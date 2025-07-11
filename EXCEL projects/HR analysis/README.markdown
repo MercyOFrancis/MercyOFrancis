@@ -80,6 +80,5 @@ The dataset contains 239 employee records with fields including:
 
 ## Contact
 For questions or collaboration, reach me at:  
-- **Email**: mercyfrancis18@gmail.com  
-- 
+- **Email**: mercyfrancis18@gmail.com   
 - **GitHub**: [Mercy Francis](#)
