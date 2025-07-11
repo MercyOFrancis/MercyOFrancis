@@ -14,6 +14,11 @@ The dataset contains 239 employee records with fields including:
 - `department`, `job_role`, `basic_salary`, `date_of_birth`, `hire_date`
 - `performance_score`
 
+## Interactive Dashboard
+
+<img width="956" height="550" alt="image" src="https://github.com/user-attachments/assets/d7a5c307-40fb-4a8e-8840-81888ea4ccab" />
+
+
 ## Methodology
 
 ### Data Cleaning
@@ -63,9 +68,9 @@ The dataset contains 239 employee records with fields including:
 ## How to View the Project
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/hr-data-cleaning-analysis.git
+   git clone https://github.com/MercyOFrancis/MercyOFrancis.git
    ```
-2. Open the Excel file (`hr_data_analysis.xlsx`) in the repository to explore the cleaned dataset, pivot tables, and visualizations.
+2. Open the Excel file (HR analysis job shadowing dataset.xlsx`) in the repository to explore the cleaned dataset, pivot tables, and visualizations.
 3. Review the `README.md` for a detailed project overview.
 
 ## Future Improvements
@@ -76,5 +81,5 @@ The dataset contains 239 employee records with fields including:
 ## Contact
 For questions or collaboration, reach me at:  
 - **Email**: mercyfrancis18@gmail.com  
-- **LinkedIn**: [Mercy Francis](#)  
+- 
 - **GitHub**: [Mercy Francis](#)
