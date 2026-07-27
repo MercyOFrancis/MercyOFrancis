@@ -73,7 +73,7 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mercy-francis)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mercyfrancis18@gmail.com)
@@ -81,18 +81,18 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 
 ---
 
-## 📊 Stats & Streaks
+## Stats
 
 ![Mercy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MercyOFrancis&show_icons=true&theme=radical&hide_border=true)
-
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyOFrancis&layout=compact&theme=radical&hide_border=true)
-
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MercyOFrancis&theme=radical&hide_border=true)
 
 ---
 
-> > *"Refining data is like refining DNA — accuracy reveals function."*
-lets bring order to your chaos
+> *"Refining data is like refining DNA — accuracy reveals function."*
+
 
 ⭐ If you find my work useful, consider starring my repositories.
 
