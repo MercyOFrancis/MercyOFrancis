@@ -1,6 +1,7 @@
 # 👩🏾‍🔬 Hi, I’m Mercy Francis
 
-🎯**Biomedical & Clinical Data Specialist
+**Biomedical & Clinical Data Specialist**
+
 🧬 *Bridging Wet-Lab Precision with Advanced Data Engineering & Analytics*
 
 ---
@@ -8,15 +9,15 @@
 ## About Me
 I clean, analyze and visualize data with a scientist's attention to detail. Starting in medical biochemistry and hands on lab work, I now apply that same rigor to biomedical, clinical and business data using: 
 
-- 🔍 **Excel & Power Query** data wrangling and process automation
-- 🧮 **PostgreSQL** structured querying and relational design
-- 📊 **Power BI** live, decison ready dashboards  
-- 🐍 Learning **Python** analysis and automation
-- 🔵**R** Learning **R** statistical computing and visualization
+- **Excel & Power Query** data wrangling and process automation
+- **PostgreSQL** structured querying and relational design
+- **Power BI** live, decison ready dashboards  
+- **Python** analysis and automation
+- **R** statistical computing and visualization
 
 ---
 
-## 🧬 Bioinformatics & Clinical Data Projects
+## Bioinformatics & Clinical Data Projects
 
 ### 🧠 [Glioblastoma Biomarker Discovery](https://github.com/MercyOFrancis/hackbio-cancer-internship)
 Analyzed gene expression data for glioma classification  
@@ -24,28 +25,28 @@ Analyzed gene expression data for glioma classification
 - Built heatmaps to highlight up/downregulated genes  
 - Ran pathway enrichment analysis using ShinyGO  
 
-### 💡 [Colorectal Cancer Classifier](https://github.com/MercyOFrancis/hackbio-cancer-internship)
+### 🧫 [Colorectal Cancer Classifier](https://github.com/MercyOFrancis/hackbio-cancer-internship)
 - Cleaned and prepared raw gene expression profiles  
 - Supported model development for a kNN-based classifier 
 - Identified significant biomarkers from expression data  
 
 ---
 
-## 📈 Featured Work in Business Analytics
+## Business Analytics
 
-### 📊 [Excel | Job Market Insights](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/EXCEL%20projects/Data%20Cleaning%20-%20Job%20Posting)
+### 📊 [Job Market Insights (Excel)](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/EXCEL%20projects/Data%20Cleaning%20-%20Job%20Posting)
 - Processed 15,000+ job posts using Power Query  
 - Built interactive dashboards & KPI tracking 
 - Boosted data integrity by over 95%
 
-### 🗃️ [SQL | Retail Analytics Engine](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/SQL%20projects)
+### 🗃️ [Retail Analytics Engine (SQL)](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/SQL%20projects)
 - Designed & queried relational databases  
 - Applied CTEs, joins, and window functions for segmentation  
 - Reduced query runtime by 90% through optimization
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -55,7 +56,7 @@ Analyzed gene expression data for glioma classification
 
 ---
 
-## 🎓 Certifications & Training
+## Certifications
 
 - **Data Science Certification** — SheCode Africa (2026)
 - **AI Fundamentals** — IBM (2026)
@@ -90,11 +91,9 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 
 ---
 
-> _“Refining data is like refining DNA - accuracy reveals function.”_  
-Let’s bring order to your chaos.
 > > *"Refining data is like refining DNA — accuracy reveals function."*
+> > lets bring order to your chaos
 
----
-⭐ **If you find my work interesting, please consider giving my repositories a star!**
+⭐ If you find my work useful, consider starring my repositories.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MercyOFrancis&color=blueviolet&style=flat)
