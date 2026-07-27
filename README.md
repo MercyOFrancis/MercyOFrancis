@@ -1,14 +1,12 @@
-## Hi there 👋
+# 👩🏾‍🔬 Hi, I’m Mercy Francis
 
-# 👩‍🔬 Hi, I’m Mercy Francis
-
-🎯 **Precision-Driven Data Analyst** | 🔬 Med Biochemist-Turned-Data Explorer | 🧬 Specializing in Science-Driven Data Management
+🎯**Biomedical & Clinical Data Specialist** | 🔬 Med Biochemist turned Computational Data Analyst  
+🧬 *Bridging Wet-Lab Precision with Advanced Data Engineering & Analytics*
 
 ---
 
 ## 🧠 About Me
-
-I extract clarity from complexity—cleaning, analyzing, and visualizing data with surgical precision.  
+I
 With roots in Medical biochemistry and hands-on lab work, I now translate biomedical and business data into insights using:
 
 - 🔍 **Excel & Power Query** for agile data wrangling  
