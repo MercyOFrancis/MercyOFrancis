@@ -1,4 +1,4 @@
-# 👩🏾‍🔬 Hi, I’m Mercy Francis
+# 👩🏽‍🔬 Hi, I’m Mercy Francis
 
 **Biomedical & Clinical Data Specialist**
 
@@ -92,7 +92,7 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 ---
 
 > > *"Refining data is like refining DNA — accuracy reveals function."*
-> > lets bring order to your chaos
+lets bring order to your chaos
 
 ⭐ If you find my work useful, consider starring my repositories.
 
