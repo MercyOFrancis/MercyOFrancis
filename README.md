@@ -36,13 +36,18 @@ Analyzed gene expression data for glioma classification
 
 ### 📊 [Job Market Insights (Excel)](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/EXCEL%20projects/Data%20Cleaning%20-%20Job%20Posting)
 - Processed 15,000+ job posts using Power Query  
-- Built interactive dashboards & KPI tracking 
+- Data Cleaning 
 - Boosted data integrity by over 95%
 
-### 🗃️ [Retail Analytics Engine (SQL)](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/SQL%20projects)
-- Designed & queried relational databases  
-- Applied CTEs, joins, and window functions for segmentation  
-- Reduced query runtime by 90% through optimization
+### ☕[Coffee Sales Analysis](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/EXCEL%20projects/Coffee%20Sales%20Analysis)
+- Uncovered key revenue drivers across $45K+ in global sales data using advanced formulas and interactive dashboards.
+- Identified Excelsa as the top-performing coffee type and analyzed purchasing behavior across loyalty card tiers and international markets.
+- Demonstrated data integrity optimization, segmenting top customers and roast trends (2019–2022)
+
+### 🗃️ [SLOT Nigeria Retail Management OLTP Database (SQL)]([https://github.com/MercyOFrancis/MercyOFrancis/tree/main/SQL%20projects](https://github.com/MercyOFrancis/MercyOFrancis/tree/main/SQL%20projects/SLOT%20Nigeria%20Retail%20Management%20OLTP%20Database))
+- Designed and deployed a 3NF-normalized relational database to streamline high-volume retail operations modeled after SLOT Nigeria.
+- Automation & Integrity: Integrated custom stored procedures and automated triggers for real-time inventory updates, transaction atomicity, and continuous change auditing.
+- Business Impact: Solved stockout/overstock errors, optimized query performance for concurrent users, and delivered actionable sales analytics and customer feedback reporting.
 
 ---
 
@@ -91,7 +96,7 @@ Now leveraging that structured rigor to optimize pipelines and uncover **hidden 
 
 ---
 
-> *"Refining data is like refining DNA — accuracy reveals function."*
+> *"Refining data is like refining DNA - accuracy reveals function."*
 
 
 ⭐ If you find my work useful, consider starring my repositories.
