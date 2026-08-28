@@ -19,7 +19,7 @@ I clean, analyze and visualize data with a scientist's attention to detail. Star
 
 ## Bioinformatics & Clinical Data Projects
 
-### 🧠 [Glioblastoma Biomarker Discovery]([https://github.com/MercyOFrancis/hackbio-cancer-internship](https://github.com/MercyOFrancis/hackbio-cancer-internship/tree/main/Stage%202))
+### 🧠 [Glioblastoma Biomarker Discovery](https://github.com/MercyOFrancis/hackbio-cancer-internship/tree/main/Stage%202)
 Analyzed gene expression data for glioma classification  
 - Performed differential expression analysis using R  
 - Built heatmaps to highlight up/downregulated genes  
