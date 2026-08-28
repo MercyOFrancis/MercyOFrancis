@@ -25,7 +25,7 @@ Analyzed gene expression data for glioma classification
 - Built heatmaps to highlight up/downregulated genes  
 - Ran pathway enrichment analysis using ShinyGO  
 
-### 🧫 [Colorectal Cancer Classifier]([https://github.com/MercyOFrancis/hackbio-cancer-internship](https://github.com/MercyOFrancis/hackbio-cancer-internship/tree/main/Stage%203))
+### 🧫 [Colorectal Cancer Classifier](https://github.com/MercyOFrancis/hackbio-cancer-internship/tree/main/Stage%203)
 - Cleaned and prepared raw gene expression profiles  
 - Supported model development for a kNN-based classifier 
 - Identified significant biomarkers from expression data  
